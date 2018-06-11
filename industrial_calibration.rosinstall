@@ -1,1 +1,2 @@
 - git: {local-name: ceres-solver, uri: 'https://github.com/ceres-solver/ceres-solver.git', version: master}
+- git: {local-name: intelligent_actuator, uri: 'https://github.com/ros-industrial/intelligent_actuator.git', version: master}
